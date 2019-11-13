@@ -1,0 +1,5 @@
+Function doSomethingThatMyTutorIsGonnaLike : 
+
+This function is increasing the contrast of the input image : 
+for each channel, if the intensity is under 122 we decrease the intensity by contrast (an integer defined at the begining of the function)
+if the intensity is over 123, we increase the intensity by the same integer. We also make sure the intensity is not under 0 or over 255. 
