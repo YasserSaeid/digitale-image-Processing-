@@ -1,0 +1,2 @@
+The median filter should be applied when there is short (impulse) noise on the image. 
+Moving average filter should be applied when there is Gaussian (continuous) noise on the image
