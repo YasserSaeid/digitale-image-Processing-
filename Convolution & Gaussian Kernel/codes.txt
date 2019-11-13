@@ -1,0 +1,1 @@
+a)	To obtain the result of the spatial convolution, it has been assumed that when the kernel is outside of the image, it acts as if the outside part is black
