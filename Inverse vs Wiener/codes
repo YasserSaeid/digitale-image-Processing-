@@ -1,0 +1,1 @@
+The ringing effect refers to artifacts which are produced at strong edges when ideal filters(Low pass & Highpass) are applied to image signals in the frequency domain. Ripples are formed near strong edges as a result of oscillations by the Sinc function, which is the Fourier Transform of the step function used in ideal filters
